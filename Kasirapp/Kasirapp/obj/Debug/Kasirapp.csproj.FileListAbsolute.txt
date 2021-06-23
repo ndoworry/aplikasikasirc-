@@ -1,0 +1,7 @@
+C:\Users\MSI Alpha\Documents\SharpDevelop Projects\Kasirapp\Kasirapp\obj\Debug\Kasirapp.csprojResolveAssemblyReference.cache
+C:\Users\MSI Alpha\Documents\SharpDevelop Projects\Kasirapp\Kasirapp\obj\Debug\Kasirapp.MainForm.resources
+C:\Users\MSI Alpha\Documents\SharpDevelop Projects\Kasirapp\Kasirapp\obj\Debug\Kasirapp.csproj.GenerateResource.Cache
+C:\Users\MSI Alpha\Documents\SharpDevelop Projects\Kasirapp\Kasirapp\bin\Debug\Kasirapp.exe
+C:\Users\MSI Alpha\Documents\SharpDevelop Projects\Kasirapp\Kasirapp\bin\Debug\Kasirapp.pdb
+C:\Users\MSI Alpha\Documents\SharpDevelop Projects\Kasirapp\Kasirapp\obj\Debug\Kasirapp.exe
+C:\Users\MSI Alpha\Documents\SharpDevelop Projects\Kasirapp\Kasirapp\obj\Debug\Kasirapp.pdb
